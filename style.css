@@ -11,7 +11,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: rgb(65, 122, 245);
+  background-color: rgb(61, 122, 253);
 }
 
 button {
@@ -22,8 +22,8 @@ button {
   width: 90%;
   height: 80%;
   border-radius: 10px;
-  background: rgb(158, 203, 233);
-  font-family: 'Oswald', sans-serif;
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
 }
 
 .header {
@@ -46,7 +46,7 @@ button {
   border-radius: 5px;
   border: none;
   color: white;
-  background-color: rgb(65, 122, 245);
+  background-color: rgb(61, 122, 253);
 }
 
 .divTable {
@@ -58,12 +58,12 @@ button {
 
 .divTable::-webkit-scrollbar {
   width: 12px;
-  background-color: rgb(255, 255, 255); 
+  background-color: white;
 }
 
 .divTable::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background-color: rgb(255, 255, 255); 
+  background-color: white;
 }
 
 table {
@@ -74,11 +74,11 @@ table {
 }
 
 thead {
-  background-color: rgb(255, 255, 255);
+  background-color: white;
 }
 
 tr {
-  border-bottom: 1px solid rgb(238, 235, 235)!important;
+  border-bottom: 1px solid white!important;
 }
 
 tbody tr td {
